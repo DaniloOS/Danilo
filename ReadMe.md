@@ -1,4 +1,4 @@
-### Olá, me chamo Danilo Oliveira Santiago! 👋
+ ### Olá, me chamo Danilo Oliveira Santiago! 👋
 
 ## 📌 Sobre mim:
 👩‍💻 Desenvolvedor Fullstack em aprendizado.<br>🎓 Estudante do Ensino Médio na escola técnica de TI Cotemig.<br>📚 Aprendendo novas linguagens e desenvolvendo minhas habilidades todos os dias.<br>🔍 Em busca do meu primeiro estágio.<br>⚽ Interesses: Programação, tecnologia, esportes.<br>🌱 Sempre aberto a novos aprendizados e desafios.
@@ -27,8 +27,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardooldz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
-![](https://github-readme-stats.vercel.app/api?username=bernardooldz&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloOS&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br>
+![](https://github-readme-stats.vercel.app/api?username=DaniloOS&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=bernardooldz&theme=gruvbox&hide_border=false)<br/> -->
 
 ---
